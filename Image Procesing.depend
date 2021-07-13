@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1622907364 source:c:\users\vladc\onedrive\documents\facultate\year 1, semester 2\c++\image procesing\main.cpp
+	<iostream>
+	"Image.h"
+
+1622132691 c:\users\vladc\onedrive\documents\facultate\year 1, semester 2\c++\image procesing\include\image.h
+
+1622906271 c:\users\vladc\onedrive\documents\facultate\year 1, semester 2\c++\image procesing\image.h
+	<cstdio>
+	<stdint.h>
+	<string.h>
+
+1622907531 source:c:\users\vladc\onedrive\documents\facultate\year 1, semester 2\c++\image procesing\image.cpp
+	"Image.h"
+	"stb_image.h"
+	"stb_image_write.h"
+
+1622133481 c:\users\vladc\onedrive\documents\facultate\year 1, semester 2\c++\image procesing\stb_image.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1622132691 c:\users\vladc\onedrive\documents\facultate\year 1, semester 2\c++\image procesing\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
